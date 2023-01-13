@@ -1,0 +1,29 @@
+{
+  "name": "async-concurrent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "compile": "babel src --out-dir lib",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xulsup/async-concurrent.git"
+  },
+  "keywords": [
+    "async",
+    "concurrent"
+  ],
+  "author": "xulsup",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xulsup/async-concurrent/issues"
+  },
+  "homepage": "https://github.com/xulsup/async-concurrent#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.20.7",
+    "@babel/core": "^7.20.12",
+    "@babel/preset-env": "^7.20.2"
+  }
+}
