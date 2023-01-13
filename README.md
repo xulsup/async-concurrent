@@ -1,6 +1,10 @@
 ## Usage
 
 ```
+npm install async-concurrent
+```
+
+```
 const asyncConcurrent = require("async-concurrent");
 
 const array = [] // requests

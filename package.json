@@ -2,9 +2,9 @@
   "name": "async-concurrent",
   "version": "1.0.0",
   "description": "",
-  "main": "src/index.js",
+  "main": "lib/index.js",
   "scripts": {
-    "compile": "babel src --out-dir lib",
+    "compile": "babel src --out-dir package/lib",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
